@@ -1,0 +1,20 @@
+
+1. Tìm số lớn nhất trong 3 số tự nhiên
+2. Phát sinh số ngẫu nhiên trong khoảng 14 đến 19
+3. In bảng cửu chương
+4. Mô phỏng ứng dụng máy tính bỏ túi: nhập 2 số tự nhiên a , b, nhập phép tính caculate. 
+	Xuất ra kết quả : a caculate b = result
+5. Game show đi tìm ẩn số: phát sinh 1 số tự nhiên ngẫu nhiên trong khoảng 1 đến 100. 
+	Cho người dùng nhập 1 số bất kì từ bàn phím, nếu số đó nhỏ hơn số ngẫu nhiên thì thông báo số bạn nhập nhỏ hơn số ngẫu nhiên.
+	Nếu số đó lớn hơn số ngẫu nhiên thì thong báo số đó lớn hơn số ngẫu nhiên. 
+	Tiếp tục nhập cho đến khi số nhập vào trùng với số ngẫu nhiên thì thông báo chiến thắng. 
+	Tính điểm: mỗi người chơi sẽ có 100 điểm, với mỗi lần nhập sai, người chơi sẽ bị trừ đi 5 điểm. Hãy xuất thông tin điểm của người chơi. 
+	VD: A nhập 7 lần thì tìm ra số ngẫu nhiên nên điểm của A sẽ là : 100 - 7 * 5 = 65
+
+6. Mô phỏng máy ATM: Nhập vào số tiền bạn muốn,  xuất ra thông tin mệnh giá và số tờ tiền đi kèm. VD 1.450.000, xuất ra thông tin sẽ là: 
+	Mệnh giá 500: 2 tờ
+	Mệnh giá 200: 2 tờ
+	Mệnh giá 50: 1 tờ
+
+
+
