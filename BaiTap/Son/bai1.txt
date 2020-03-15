@@ -1,0 +1,16 @@
+//Tim so lon nhat trong 3 so tu nhien
+
+public class Bai1{
+	public static void main(String[] args) {
+		int numberOne = 20;
+		int numberTwo = 3;
+		int numberThree = 10;
+
+		int result;
+
+		result = Math.max(numberOne, numberTwo);
+		result = Math.max(result, numberThree);
+
+		System.out.println("max: " + result);
+	}
+}
